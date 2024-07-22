@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+.brandcontainer{
+    
+width: 1150px;
+margin-left: 200px;
+height: 800px;
+margin-top: 25px;
+display: flex;
+}
+.chegirma{
+    /* margin-top: -400px; */
+    margin-top: -10px;
+    width: 83px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid lightgrey;
+   margin-left: 30px;
+   color: red;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.savat2{
+    width: 250px;
+    height: 650px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.heartuz{
+    font-size: 38px;
+    margin-left: 190px;
+    margin-top: 30px;
+}
+.rasmikki{
+    width: 150px;
+    height: 150px;
+    margin-left: 40px;
+    margin-top: 10px;
+
+}
+.logopl{
+    margin-left: 10px;
+    box-shadow: rgba(255, 254, 254, 0.826) 0px 0px 5px 0px, rgba(230, 229, 229, 0.695) 0px 0px 1px 0px;
+   border-radius: 5px;
+   background-color: rgba(255, 127, 80, 0.701);
+   border: 1px solid whitesmoke;
+}
+.textlogo{
+    padding: 10px;
+}
+.grey{
+    color: grey;
+    font-size: 18px;
+}
+.nomer{
+    padding: 10px;
+}
+h3 span{
+    color: red;
+}
+.uyim{
+    margin-left: 20px;
+    width: 200px;
+    height: 35px;
+    box-shadow: rgba(74, 74, 115, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-radius: 10px;
+    border: 2px solid red;
+}
+.basketboll{
+font-size: 33px;
+margin: auto;
+
+}

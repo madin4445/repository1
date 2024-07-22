@@ -1,0 +1,36 @@
+.famous-container{
+    margin-top: 300px;
+   display: grid;
+   grid-template-columns: auto auto auto;
+   width: 100px;
+   gap: 10px;
+   margin-left: 350px;
+
+}
+.contadetail{
+    width: 300px;
+    margin-left: 10px;
+    
+}
+.contaitem{
+    width: 300px;
+    height: 400px;
+}
+.left{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px;
+    font-size: 15px;
+
+}
+.rasm{
+   margin-top: -150px;
+    margin-left: 100px;
+    width: 160px;
+
+}
+.span2{
+    margin-top: 60px;
+    margin-left: 10px;
+    font-size: 20px;
+
+}
