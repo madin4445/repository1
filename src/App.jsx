@@ -8,6 +8,7 @@ import Brand from './dars davomi/Brand';
 import Swiper from './dars davomi/Swiper';
 import Carta from './dars davomi/Carta';
 import Yakuniy from './dars davomi/pages/Yakuniy';
+import Component from "./Component";
 function App() {
   return (
     <>
@@ -19,6 +20,7 @@ function App() {
   <Swiper/>
   <Carta/>
   <Yakuniy/>
+  <Component/>
     </>
   );
 }
